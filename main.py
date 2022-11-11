@@ -7,7 +7,7 @@ import speech_recognition as sr
 
 PATH = os.path.dirname(os.path.abspath(__file__))
 MP3_FILE = "speak.mp3"
-OPEN_API_KEY = "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"
+OPEN_API_KEY = "OPEN_AI_KEY"
 ERROR_MESSAGE = "Sorry, I cannot understand what you say"
 
 
